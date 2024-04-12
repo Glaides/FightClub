@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+margin: 1%;
+padding: 30px;
+border-radius: 10px;
+height: 100vh;
+background: #e0e0e0;
+box-shadow:  33px 33px 65px #acacac,
+             -33px -33px 65px #ffffff;
+}
+
+
+

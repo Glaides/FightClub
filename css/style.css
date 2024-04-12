@@ -270,7 +270,7 @@ top: 15px;
 }
 label:hover{
 box-shadow: -3px -3px 7px var(--cor-ele-bo-sha-one),
-             3px 3px 5px var(--cor-ele-bo-sha-two);
+             3px  3px 5px var(--cor-ele-bo-sha-two);
 color:var(--cor-text-e-h);
 }
 
